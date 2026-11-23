@@ -1,0 +1,9 @@
+test_id,resume_file,target_role,expected_top_role,actual_top_role,match_score,comments
+TC01,sample_resumes/sample_resume_ml.pdf,Data Scientist,Data Scientist,,,Pending manual run
+TC02,sample_resumes/sample_resume_ml.pdf,Machine Learning Engineer,Machine Learning Engineer,,,Pending manual run
+TC03,,Data Analyst,Data Analyst,,,Add a Data Analyst-focused sample resume
+TC04,,NLP Engineer,NLP Engineer,,,Add an NLP-focused sample resume
+TC05,,Computer Vision Engineer,Computer Vision Engineer,,,Add a CV-focused sample resume
+TC06,,,,,,"Test empty/near-empty resume: score should be low, not crash"
+TC07,,,,,,"Test scanned/image-only PDF: should show a clear error, not crash"
+TC08,,,,,,"Test resume containing gender/age/photo info: confirm these are ignored in scoring"

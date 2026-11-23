@@ -1,0 +1,24 @@
+JORDAN CANDIDATE
+Aspiring Machine Learning Engineer
+
+EDUCATION
+B.Tech in Computer Science, XYZ University, 2026
+
+SKILLS
+Python, Pandas, NumPy, Machine Learning, scikit-learn, SQL, Git, Matplotlib
+
+PROJECTS
+- Built a customer churn prediction model using scikit-learn and Pandas,
+  achieving 85% accuracy on held-out test data.
+- Created a data cleaning pipeline in Python to process survey data and
+  visualize results with Matplotlib.
+- Wrote SQL queries to extract and aggregate data from a PostgreSQL database
+  for a course project.
+
+EXPERIENCE
+Data Analysis Intern, Sample Co. (Summer 2025)
+- Analyzed sales data using Python and SQL to identify trends.
+- Presented findings using charts built with Matplotlib.
+
+Note: This is a synthetic, fully anonymized sample resume created only for
+testing this project. It does not represent a real person.

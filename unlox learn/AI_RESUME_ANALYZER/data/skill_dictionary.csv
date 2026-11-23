@@ -1,0 +1,46 @@
+skill,category,aliases
+Python,Programming,python
+Java,Programming,java
+C++,Programming,c++|cpp
+C#,Programming,c#|csharp
+.NET,Programming,.net|dotnet
+JavaScript,Programming,javascript|js
+R,Programming,r programming
+SQL,Databases,sql|mysql query
+MySQL,Databases,mysql
+PostgreSQL,Databases,postgresql|postgres
+MongoDB,Databases,mongodb|mongo
+NoSQL,Databases,nosql
+Machine Learning,ML,machine learning|ml
+Deep Learning,ML,deep learning|dl
+scikit-learn,ML,scikit-learn|sklearn
+TensorFlow,ML,tensorflow
+PyTorch,ML,pytorch
+CNN,ML,cnn|convolutional neural network
+NLP,ML,nlp|natural language processing
+Transformers,ML,transformers|transformer models
+Hugging Face,ML,hugging face|huggingface
+LLM,ML,llm|large language model
+RAG,ML,rag|retrieval augmented generation
+Computer Vision,ML,computer vision
+OpenCV,ML,opencv
+YOLO,ML,yolo
+AWS,Cloud,aws|amazon web services
+Azure,Cloud,azure
+GCP,Cloud,gcp|google cloud
+Docker,Cloud,docker
+Kubernetes,Cloud,kubernetes|k8s
+Git,Tools,git
+GitHub,Tools,github
+Excel,Tools,excel|ms excel
+Power BI,Tools,power bi|powerbi
+Tableau,Tools,tableau
+Pandas,Tools,pandas
+NumPy,Tools,numpy
+Matplotlib,Tools,matplotlib
+FastAPI,Tools,fastapi
+Flask,Tools,flask
+REST APIs,Tools,rest api|apis|restful
+MLflow,Tools,mlflow
+Spark,Tools,spark|pyspark
+Linux,Tools,linux
